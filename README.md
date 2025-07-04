@@ -21,3 +21,9 @@ Each dashboard is based on real-world or realistic datasets and is designed to h
 🔗 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGVmMGMzNDYtYTMyYy00MDE0LTg1MDMtMDY3MjljOGRiN2UzIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9)
 
 ---
+
+### 3. **Human Resources Analytics(Tableau)**
+**Overview**: Tracks hiring trends, attrition rate, department-wise demographics, and diversity metrics. Designed to support HR decisions and workforce planning in Tableau 
+
+🔗 [View Dashboard](https://public.tableau.com/app/profile/yash.dave1479/viz/HRAnalyticsDashboard_17515978861680/HRSummary)
+
