@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboards by Yash Dave
+# 📊 Power BI and Tableau Dashboards by Yash Dave
 
 Welcome to my collection of interactive Power BI dashboards. These projects demonstrate my skills in data cleaning, modeling, visualization, and business insight generation using Power BI.
 
